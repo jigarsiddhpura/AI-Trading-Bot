@@ -1,0 +1,5 @@
+# trading logs
+/logs
+
+# env variable
+.env
